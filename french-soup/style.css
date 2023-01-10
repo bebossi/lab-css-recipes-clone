@@ -1,0 +1,20 @@
+.soupImg img{
+    width: 100%;
+}
+.soupImg label{
+    position: absolute;
+    font-size: 100px;
+    color: white;
+    top: 400px;
+    right: 500px;
+}
+p {
+    font-size: 25px;
+    text-align: center;
+    padding: 20px;
+}
+#recipeInfo{
+    margin: auto;
+display: block;
+width: 30%;
+}
